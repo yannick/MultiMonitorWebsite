@@ -1,5 +1,7 @@
 # Multi Monitor Website Screensaver
 
+! beware, this is a Vibe coding exercise !
+
 A macOS screensaver that displays configurable websites on multiple monitors.
 
 vibe code modified version of https://github.com/davenicoll/swiss-railway-clock-screensaver.git
